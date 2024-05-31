@@ -31,4 +31,4 @@ const footer = document.getElementsByTagName('footer');
 const parrafoFooter = document.createElement('p');
 const TIME = new Date().getFullYear();
 footer[0].appendChild(parrafoFooter);
-parrafoFooter.innerHTML = 'CoderHouse - ' + TIME + ' | Comisión #57705';
+parrafoFooter.innerHTML = 'CoderHouse - ' + TIME + ' | Comisión #00000';
